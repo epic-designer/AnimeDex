@@ -1,8 +1,8 @@
 {
     "name": "AnimeDex",
     "description": "Watch Animes Online For Free",
-    "repository": "https://github.com/TechShreyash/AnimeDex",
-    "logo": "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/favicon.ico",
+    "repository": "https://github.com/epic-designer/AnimeDex",
+    "logo": "../static/img/favicon.ico",
     "keywords": [
         "python",
         "flask website",

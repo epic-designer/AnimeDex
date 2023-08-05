@@ -1,11 +1,11 @@
 import requests
 
 urls = [
-    "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/css/anime_min.css",
-    "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/css/episode_min.css",
-    "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/css/home_min.css",
-    "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/css/search_min.css",
-    "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/css/video_min.css",
+    "../static/css/anime_min.css",
+    "../static/css/episode_min.css",
+    "../static/css/episode_min.css",
+    "../static/css/search_min.css",
+    "https://cdn.jsdelivr.net/gh/epic-designer/AnimeDex@main/static/css/video_min.css",
 ]
 
 
