@@ -39,7 +39,7 @@ header {
   width: 100%;
 }
 footer {
-  background: #34c9eb;
+  background: #34c9eb;;
   display: flex;
   flex-wrap: nowrap;
   align-content: center;
@@ -79,7 +79,7 @@ footer a {
   color: white;
 }
 h1 {
-  color: #34c9eb;
+  color: #34c9eb;;
   font-family: "Poppins", sans-serif;
 }
 i {
@@ -472,7 +472,7 @@ h1 {
 }
 h2 {
   font-family: "Montserrat", sans-serif;
-  color: #ed3832;
+  color: #34c9eb;;
   font-weight: 500;
   width: 100%;
   font-size: 20px;
@@ -563,7 +563,7 @@ h2 {
 }
 .dubb {
   color: white;
-  background-color: red;
+  background-color: #34c9eb;;
   position: absolute;
   bottom: 10px;
   left: 10px;

@@ -61,7 +61,7 @@ header {
 }
 
 footer {
-    background: #34c9eb;
+    background: #34c9eb;;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -536,7 +536,7 @@ header {
 }
 
 footer {
-    background: #34c9eb;
+    background: #34c9eb;;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -956,7 +956,7 @@ header {
 }
 
 footer {
-    background: #34c9eb;
+    background: #34c9eb;;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;

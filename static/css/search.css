@@ -45,7 +45,7 @@ header {
 }
 
 footer {
-    background: #34c9eb;
+    background: #34c9eb;;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -303,7 +303,7 @@ h2 {
 
 .dubb {
     color: white;
-    background-color: red;
+    background-color: #34c9eb;
     position: absolute;
     bottom: 10px;
     left: 10px;
