@@ -39,7 +39,7 @@ header {
   width: 100%;
 }
 footer {
-  background: #eb3349;
+  background: #34c9eb;
   display: flex;
   flex-wrap: nowrap;
   align-content: center;
@@ -67,7 +67,7 @@ footer a {
   }
 }
 #head-div {
-  background: linear-gradient(to right, #eb3349 40%, #f45c43);
+  background: linear-gradient(to right, #34c9eb 40%, #f45c43);
   width: 100%;
   text-align: center;
   padding-top: 25px;
@@ -79,7 +79,7 @@ footer a {
   color: white;
 }
 h1 {
-  color: #eb3349;
+  color: #34c9eb;
   font-family: "Poppins", sans-serif;
 }
 i {
